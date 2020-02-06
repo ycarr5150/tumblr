@@ -1,6 +1,6 @@
 # Pre-work - *tumblr*
 
-**tumblr** is a tip calculator application for iOS.
+**tumblr** is a application for iOS.
 
 Submitted by: **Yazmin Carrillo & David Duong**
 
